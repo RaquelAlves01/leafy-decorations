@@ -3,11 +3,12 @@ html {
 }
 
 .masthead {
-
+  background-image: url("");
 }
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -16,6 +17,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  border: 2px solid #2d5a4d;
+  background-color: #467366;
+  color: #fff;
+  border-radius: 8px;
 }
 
 .nav a:hover {
