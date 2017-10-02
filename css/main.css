@@ -65,4 +65,8 @@ html {
     text-align: right;
   }
 
+  .banner {
+    background-position: bottom left;
+  }
+
 }
