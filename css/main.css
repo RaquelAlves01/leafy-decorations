@@ -30,7 +30,12 @@ html {
 }
 
 .nav a:hover {
-
+  background-image: url("../images/leaf-icon.svg");
+  background-repeat: no-repeat;
+  background-color: #fff;
+  background-position: center center;
+  background-size: 64px auto;
+  color: #145b1d;
 }
 
 .banner {
